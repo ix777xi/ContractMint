@@ -1,0 +1,19 @@
+{
+  "extends": "stylelint-config-sass-guidelines",
+  "rules": {
+    "indentation": null,
+    "number-leading-zero": null,
+    "selector-class-pattern": null,
+    "order/properties-alphabetical-order": null,
+    "max-nesting-depth": null,
+    "scss/at-import-partial-extension-blacklist": null,
+    "color-hex-case": "lower",
+    "color-hex-length": "long",
+    "color-named": "always-where-possible",
+    "color-no-hex": true,
+    "scss/at-mixin-pattern": null,
+    "scss/dollar-variable-pattern": null,
+    "selector-max-compound-selectors": null,
+    "property-no-vendor-prefix": null
+  }
+}
